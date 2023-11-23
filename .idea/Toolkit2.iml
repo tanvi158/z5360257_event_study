@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="toolkit (1)" />
+    <orderEntry type="module" module-name="Toolkit" />
   </component>
 </module>
